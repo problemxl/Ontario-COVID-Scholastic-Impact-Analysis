@@ -56,8 +56,7 @@ records not processed, elapsed execution time
 ## Results
 
 Using the Power BI visualization, it is observed using EQAO testing, student performance dropped 1-5% of in the 2019-2020 academic year compared to the previous year.  EQAO data before the 2017-2018 academic year is not available so it is not possible to determine if this is a concern or within a normal range.
-
-![[bar_graph.png]]
+![bar_graph](https://github.com/problemxl/hedgehog/assets/16285595/cb8af200-dc2e-418c-b954-1fbbe8a747e9)
 |Figure 1 Students achieving provincial standard on EQAO assessments 
 
 In the 2019-2020 academic year, the EQAO cancelled all remaining EQAO assessments. What EQAO tests took place, happened before the March 2020 Covid-19 lockdowns and subsequent online learning. Covid-19 and it's aftermath may not have had much of an effect on EQAO results.
@@ -68,8 +67,8 @@ A heat map proves useful determine that Covid-19 affected schools in metropolita
 
 In future pandemic scenarios, the government and school boards may want to allocate more resources in these areas in order to protect students and to help limit the effects of a pandemic on academic performance.
 
-
-![[map.png]]Figure 2: Covid-19 impact on Ontario schools
+![map](https://github.com/problemxl/hedgehog/assets/16285595/dce8b94c-4b69-4266-ac42-85811d81d069)
+|Figure 2: Covid-19 impact on Ontario schools
 ## Design
 
 ### Business Context
