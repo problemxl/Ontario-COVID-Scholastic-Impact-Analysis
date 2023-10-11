@@ -68,7 +68,9 @@ A heat map proves useful determine that Covid-19 affected schools in metropolita
 In future pandemic scenarios, the government and school boards may want to allocate more resources in these areas in order to protect students and to help limit the effects of a pandemic on academic performance.
 
 ![map](https://github.com/problemxl/hedgehog/assets/16285595/dce8b94c-4b69-4266-ac42-85811d81d069)
+
 |Figure 2: Covid-19 impact on Ontario schools
+
 ## Design
 
 ### Business Context
