@@ -7,9 +7,7 @@ academic performance in the Ontario school system.
 
 ## Problem Statement
 
-Determine whether the COVID-19 pandemic impacted academic performance at the
-elementary and high school level in Ontario. Identify geographical areas that may serve as
-physical placements for the distribution of aid.
+Determine whether the COVID-19 pandemic impacted academic performance at the elementary and high school level in Ontario. Identify geographical areas that may serve as physical placements for the distribution of aid.
 
 ## Assumptions and Constraints
 
@@ -63,7 +61,7 @@ In the 2019-2020 academic year, the EQAO cancelled all remaining EQAO assessment
 
 With the drop within the 2019-2020 academic year, 2020-2021 the academic year saw a rebound in test results in the 2020-2021 academic year.
 
-A heat map proves useful determine that Covid-19 affected schools in metropolitan areas much more than schools in more rural areas. This is likely due to the increased population of students in each school as well as more dense population centers in urban environments.
+A heat map proves useful to determine that Covid-19 affected schools in metropolitan areas much more than schools in more rural areas. This is likely due to the increased population of students in each school as well as more dense population centers in urban environments.
 
 In future pandemic scenarios, the government and school boards may want to allocate more resources in these areas in order to protect students and to help limit the effects of a pandemic on academic performance.
 
@@ -146,7 +144,7 @@ Power BI is a powerful, industry-standard tool used for data visualization and a
 Deemed too excessive for the volume and frequency of data used for this analysis. Azure Blob storage better matched this use-case.
 
 ##### Preprocessing using python
-A python script was considered to preprocess data. However, it was found not to be easily repeated able, and Azure Data Factory better matched this use-case.
+A python script was considered to preprocess data. However, it was found not to be easily repeatable, and Azure Data Factory better matched this use-case.
 ##### Doing analysis using Juypter Notebook
 Juypter Notebooks were considered to complete the analysis and visualizations instead of Power BI.  
 	- Advantages
@@ -161,7 +159,7 @@ Juypter Notebooks were considered to complete the analysis and visualizations in
 This section provides a detailed level summary view of the components employed by Hedgehog and its sequential flow.
 
 #### Blob Storage
-A storage account was created to store EQAO and Ontario Covid-19 data. The development environment employed a hot storage tier to support frequent file access needs.. In production, the data needs to be access infrequently allowing the more cost-effective cold storage tier to be used.
+A storage account was created to store EQAO and Ontario Covid-19 data. The development environment employed a hot storage tier to support frequent file access needs. In production, the data needs to be access infrequently allowing the more cost-effective cold storage tier to be used.
 #### Azure Data Factory
 Azure Data Factory has the following workflow
 - Datasets
